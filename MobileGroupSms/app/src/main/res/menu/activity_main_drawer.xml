@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    //Olusturdugumuz fragmentlarin idlerini belirliyoruz.
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_groupcreate"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Grup Oluştur" />
+        <item
+            android:id="@+id/nav_addtogroup"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Gruba Üye Ekle" />
+        <item
+            android:id="@+id/nav_messagecreate"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mesaj Oluştur" />
+        <item
+            android:id="@+id/nav_sendmessage"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Mesaj Gönder" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Çıkış Yap" />
+
+    </group>
+</menu>

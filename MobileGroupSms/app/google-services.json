@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861346965993",
+    "project_id": "mobilegroupsms",
+    "storage_bucket": "mobilegroupsms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861346965993:android:8e59a9acf3d97819c54378",
+        "android_client_info": {
+          "package_name": "com.example.mobilegroupsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861346965993-bf4hol23divvhj5t8pcvn1romv8mnbip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSoMJ4PwIsCPTOA8YkCmetQCzsZAYnbWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861346965993-bf4hol23divvhj5t8pcvn1romv8mnbip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
